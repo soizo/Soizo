@@ -1,4 +1,4 @@
-### 嗨，我是灋顯東石 (Soizo Ktantas) 👋
+### 嗨，我是水圖丹它 (Soizo Ktantas) 👋
 > 懶得自己寫，GPT生成的
 
 🎓 **關於我:**
