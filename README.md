@@ -1,5 +1,4 @@
 ### 嗨，我是水圖丹它 (Soizo Ktantas) 👋
-> 懶得自己寫，GPT生成的
 
 🎓 **關於我:**
 - 我目前是中國的學生，熱衷於探索程式設計、藝術和設計
@@ -18,7 +17,6 @@
 - 我重視隱私，偏好獨立進行我的項目，但也樂於通過我的作品在線分享想法和見解
 
 ### Hi there, I'm Soizo Ktantas (水圖丹它) 👋
-> I didn't feel like writing it myself, so I had GPT do it.
 
 🎓 **About Me:**
 - I'm currently a student based in China, exploring the realms of programming, art, and design.
