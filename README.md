@@ -1,3 +1,3 @@
 # Soizo
 
-Living in Chengdu.
+我们是毛主席的红小兵
